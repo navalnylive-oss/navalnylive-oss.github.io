@@ -308,6 +308,9 @@ footer {
     .href_header {
         width: 100%;
     }
+    span {
+        font-size: 40px;
+    }
 }
 
 @media screen and (max-width: 780px) {
@@ -337,5 +340,8 @@ footer {
 @media screen and (max-width: 520px) {
     header {
         min-height: 65vh;
+    }
+    span {
+        font-size: 50px;
     }
 }
